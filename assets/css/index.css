@@ -69,3 +69,6 @@ img {
 .button:disabled {
     background-color: #9f9f9f;
 }
+#win-message {
+    display: none;
+}
